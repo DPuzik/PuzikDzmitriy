@@ -1,5 +1,5 @@
-![Ubuntu.jpg](..%2F..%2F..%2F%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%2FDZ%2FLesson%202%2FUbuntu.jpg)
-![sshRooT.jpg](..%2F..%2F..%2F%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%2FDZ%2FLesson%202%2FsshRooT.jpg)
+[] ![Ubuntu.jpg](..%2F..%2F..%2F%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%2FDZ%2FLesson%202%2FUbuntu.jpg)
+[] ![sshRooT.jpg](..%2F..%2F..%2F%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%2FDZ%2FLesson%202%2FsshRooT.jpg)
 ![ssh.jpg](..%2F..%2F..%2F%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%2FDZ%2FLesson%202%2Fssh.jpg)
 ![lsmodUbuntu.jpg](..%2F..%2F..%2F%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%2FDZ%2FLesson%202%2FlsmodUbuntu.jpg)
 ![lsmodCentOS.jpg](..%2F..%2F..%2F%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%2FDZ%2FLesson%202%2FlsmodCentOS.jpg)
