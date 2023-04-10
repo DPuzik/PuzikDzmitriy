@@ -1,3 +1,3 @@
 test
 centos
-![](https://i.imgur.com/lbMlHPX.jpeg)
+![](https://sta.sh/0aybj851uvg)
