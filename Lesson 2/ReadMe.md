@@ -1,4 +1,4 @@
-**Test screenshots**
+**Screenshots**
 + CentOS
 + ![CentOS.jpg](Screen%20shots%2FCentOS.jpg)
 + UbuntuOS
